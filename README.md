@@ -8,6 +8,7 @@ Input size :-
  28 x 28 x 1 Images, this can be modified by changing the input size in the generator and discriminator models.
  
 Instruction to execute the project :-
+        Instructions :-
         1) Download DCGan.ipynb
         2) Upload the code file in google colab or jupyter notebook
         3) Click Runtime -> Change Runtime type -> select gpu -> save
